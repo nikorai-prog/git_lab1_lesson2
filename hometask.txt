@@ -3,7 +3,9 @@
 Файлы human.txt совпадают.
 
 
-В удалённом репозитории в ветке master 10 коммитов:
+В удалённом репозитории в ветке master 12 коммитов:
+    hometask.txt заполнен
+    hometask.txt добавлен
     Merge branch 'boots_buttons'
     Merge remote-tracking branch 'origin/hat'
     Merge remote-tracking branch 'origin/buttons' into boots_buttons
